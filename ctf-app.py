@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title(""" #Hello World!""" )
+st.title(""" Hello World!""" )
 st.write( """
-##Let's check some facts!
+Let's check some facts!
 """ )
 
 # Collect data, aggregate number of students
